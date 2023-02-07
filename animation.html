@@ -1,0 +1,36 @@
+<html>
+<head>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <style>
+    svg {
+      border: 1px solid pink;
+    }
+  </style>
+</head>
+<body>
+  <svg width="500" height="500"></svg>
+
+  <script>
+    const svg = d3.select("svg");
+
+    const data = [1, 2, 3, 4, 5];
+
+    const circle = svg.selectAll("circle")
+      .data(data);
+
+    circle.enter()
+      .append("circle")
+        .attr("cx", (d, i) => (i + 1) * 100)
+        .attr("cy", 250)
+        .attr("r", 0)
+      .merge(circle)
+        .transition().duration(1000)
+        .attr("r", (d) => d * 20);
+
+    circle.exit()
+      .transition().duration(1000)
+        .attr("r", 0)
+      .remove();
+  </script>
+</body>
+</html>
