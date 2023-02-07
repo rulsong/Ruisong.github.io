@@ -7,6 +7,12 @@
     <title>Document</title>
     <script src="d3.min.js"></script>
     <script src="polygon.js"></script>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+  <style>
+    svg {
+      border: 1px solid pink;
+    }
+  </style>
 </head>
 <body>
     <h2>This is my homework2 drawing!</h2>
@@ -17,6 +23,30 @@
 <body>
     <h1 id="title">Rui Sun</h1>
     <button onclick="changeTitle()">Change Title</button>
+     <svg width="500" height="500"></svg>
+
+  <script>
+    const svg = d3.select("svg");
+
+    const data = [1, 2, 3, 4, 5];
+
+    const circle = svg.selectAll("circle")
+      .data(data);
+
+    circle.enter()
+      .append("circle")
+        .attr("cx", (d, i) => (i + 1) * 100)
+        .attr("cy", 250)
+        .attr("r", 0)
+      .merge(circle)
+        .transition().duration(1000)
+        .attr("r", (d) => d * 20);
+
+    circle.exit()
+      .transition().duration(1000)
+        .attr("r", 0)
+      .remove();
+  </script>
 
     <script>
         function changeTitle() {
