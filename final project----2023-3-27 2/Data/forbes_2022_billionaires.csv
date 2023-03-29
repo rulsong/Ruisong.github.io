@@ -1,0 +1,2576 @@
+age,category,country
+78,Food & Beverage,Algeria
+78,Manufacturing,Andorra
+86,Energy,Argentina
+95,Healthcare,Argentina
+75,Real Estate,Argentina
+89,Diversified,Argentina
+68,Metals & Mining,Australia
+60,Metals & Mining,Australia
+42,Technology,Australia
+42,Technology,Australia
+89,Real Estate,Australia
+61,Manufacturing,Australia
+71,Media & Entertainment,Australia
+36,Technology,Australia
+34,Technology,Australia
+67,Technology,Australia
+81,Diversified,Australia
+57,Manufacturing,Australia
+87,Real Estate,Australia
+42,Technology,Australia
+79,Food & Beverage,Australia
+77,Fashion & Retail,Australia
+59,Manufacturing,Australia
+45,Metals & Mining,Australia
+35,Metals & Mining,Australia
+76,Real Estate,Australia
+77,Real Estate,Australia
+84,Logistics,Australia
+91,Finance & Investments,Australia
+82,Fashion & Retail,Australia
+68,Metals & Mining,Australia
+56,Media & Entertainment,Australia
+51,Fashion & Retail,Australia
+78,Food & Beverage,Australia
+66,Telecom,Australia
+74,Metals & Mining,Australia
+76,Real Estate,Australia
+78,Metals & Mining,Australia
+78,Real Estate,Australia
+72,Manufacturing,Australia
+72,Finance & Investments,Australia
+77,Real Estate,Australia
+72,Finance & Investments,Australia
+41,Technology,Australia
+53,Technology,Australia
+69,Media & Entertainment,Australia
+77,Food & Beverage,Austria
+49,Diversified,Austria
+58,Fashion & Retail,Austria
+70,Fashion & Retail,Austria
+45,Real Estate,Austria
+75,Gambling & Casinos,Austria
+81,Fashion & Retail,Austria
+56,Manufacturing,Austria
+69,Construction & Engineering,Austria
+49,Fashion & Retail,Austria
+72,Manufacturing,Austria
+65,Automotive,Austria
+30,Finance & Investments,The Bahamas
+28,Finance & Investments,The Bahamas
+85,Finance & Investments,The Bahamas
+62,Fashion & Retail,The Bahamas
+77,Service,Bahrain
+57,Food & Beverage,Belgium
+60,Manufacturing,Belgium
+58,Finance & Investments,Belgium
+83,Food & Beverage,Bermuda
+73,Food & Beverage,Bermuda
+72,Food & Beverage,Brazil
+77,Healthcare,Brazil
+89,Diversified,Brazil
+40,Finance & Investments,Brazil
+53,Finance & Investments,Brazil
+59,Fashion & Retail,Brazil
+50,Food & Beverage,Brazil
+49,Food & Beverage,Brazil
+89,Diversified,Brazil
+91,Diversified,Brazil
+67,Food & Beverage,Brazil
+72,Fashion & Retail,Brazil
+75,Healthcare,Brazil
+76,Finance & Investments,Brazil
+64,Healthcare,Brazil
+85,Fashion & Retail,Brazil
+72,Energy,Brazil
+68,Finance & Investments,Brazil
+72,Energy,Brazil
+45,Finance & Investments,Brazil
+86,Finance & Investments,Brazil
+68,Media & Entertainment,Brazil
+66,Media & Entertainment,Brazil
+74,Media & Entertainment,Brazil
+75,Food & Beverage,Brazil
+62,Diversified,Brazil
+52,Finance & Investments,Brazil
+72,Fashion & Retail,Brazil
+75,Diversified,Brazil
+60,Diversified,Brazil
+65,Finance & Investments,Brazil
+74,Healthcare,Brazil
+48,Finance & Investments,Brazil
+49,Healthcare,Brazil
+51,Healthcare,Brazil
+62,Manufacturing,Brazil
+65,Manufacturing,Brazil
+52,Manufacturing,Brazil
+76,Finance & Investments,Brazil
+59,Fashion & Retail,Brazil
+60,Healthcare,Brazil
+70,Fashion & Retail,Brazil
+82,Finance & Investments,Brazil
+64,Diversified,Brazil
+69,Diversified,Brazil
+58,Technology,Brazil
+67,Diversified,Brazil
+66,Diversified,Brazil
+69,Diversified,Brazil
+31,Healthcare,Brazil
+81,Real Estate,Brazil
+36,Manufacturing,Brazil
+52,Finance & Investments,Brazil
+71,Diversified,British Virgin Islands
+74,Gambling & Casinos,Cambodia
+64,Media & Entertainment,Canada
+93,Diversified,Canada
+72,Food & Beverage,Canada
+65,Fashion & Retail,Canada
+73,Fashion & Retail,Canada
+41,Technology,Canada
+85,Food & Beverage,Canada
+60,Diversified,Canada
+67,Real Estate,Canada
+94,Diversified,Canada
+92,Energy,Canada
+42,Technology,Canada
+94,Fashion & Retail,Canada
+81,Real Estate,Canada
+55,Manufacturing,Canada
+71,Construction & Engineering,Canada
+60,Real Estate,Canada
+70,Finance & Investments,Canada
+81,Finance & Investments,Canada
+90,Food & Beverage,Canada
+65,Fashion & Retail,Canada
+65,Technology,Canada
+72,Technology,Canada
+53,Manufacturing,Canada
+65,Finance & Investments,Canada
+71,Finance & Investments,Canada
+89,Finance & Investments,Canada
+96,Finance & Investments,Canada
+72,Real Estate,Canada
+76,Technology,Canada
+60,Media & Entertainment,Canada
+78,Food & Beverage,Canada
+79,Telecom,Canada
+80,Finance & Investments,Canada
+56,Real Estate,Canada
+61,Real Estate,Canada
+73,Fashion & Retail,Canada
+62,Media & Entertainment,Canada
+50,Manufacturing,Canada
+71,Finance & Investments,Canada
+50,Manufacturing,Canada
+75,Real Estate,Canada
+75,Media & Entertainment,Cayman Islands
+66,Finance & Investments,Cayman Islands
+82,Fashion & Retail,Cayman Islands
+79,Metals & Mining,Chile
+76,Metals & Mining,Chile
+87,Fashion & Retail,Chile
+72,Finance & Investments,Chile
+73,Diversified,Chile
+68,Diversified,Chile
+67,Food & Beverage,China
+38,Media & Entertainment,China
+53,Automotive,China
+50,Technology,China
+93,Diversified,China
+94,Real Estate,China
+79,Manufacturing,China
+50,Technology,China
+51,Service,China
+56,Food & Beverage,China
+58,Automotive,China
+57,Technology,China
+55,Automotive,China
+66,Food & Beverage,China
+56,Automotive,China
+40,Real Estate,China
+55,Energy,China
+68,Healthcare,China
+54,Metals & Mining,China
+71,Healthcare,China
+63,Healthcare,China
+66,Manufacturing,China
+75,Real Estate,China
+55,Healthcare,China
+59,Automotive,China
+58,Automotive,China
+58,Real Estate,China
+49,Metals & Mining,China
+58,Food & Beverage,China
+70,Real Estate,China
+57,Finance & Investments,China
+73,Service,China
+67,Real Estate,China
+54,Manufacturing,China
+50,Technology,China
+56,Healthcare,China
+92,Real Estate,China
+63,Energy,China
+59,Manufacturing,China
+98,Diversified,China
+52,Technology,China
+93,Gambling & Casinos,China
+42,Technology,China
+69,Energy,China
+43,Technology,China
+48,Technology,China
+65,Manufacturing,China
+56,Manufacturing,China
+52,Technology,China
+57,Technology,China
+54,Technology,China
+76,Metals & Mining,China
+53,Energy,China
+70,Service,China
+54,Automotive,China
+63,Real Estate,China
+55,Healthcare,China
+76,Food & Beverage,China
+59,Real Estate,China
+57,Energy,China
+64,Manufacturing,China
+56,Manufacturing,China
+57,Technology,China
+58,Fashion & Retail,China
+58,Technology,China
+74,Real Estate,China
+57,Manufacturing,China
+61,Healthcare,China
+51,Fashion & Retail,China
+65,Manufacturing,China
+65,Food & Beverage,China
+58,Fashion & Retail,China
+64,Food & Beverage,China
+80,Energy,China
+64,Manufacturing,China
+52,Technology,China
+53,Manufacturing,China
+53,Technology,China
+55,Technology,China
+77,Manufacturing,China
+73,Real Estate,China
+51,Manufacturing,China
+61,Manufacturing,China
+52,Food & Beverage,China
+67,Manufacturing,China
+60,Manufacturing,China
+57,Diversified,China
+58,Automotive,China
+58,Finance & Investments,China
+55,Diversified,China
+58,Healthcare,China
+58,Manufacturing,China
+50,Manufacturing,China
+54,Technology,China
+70,Healthcare,China
+58,Manufacturing,China
+46,Manufacturing,China
+71,Real Estate,China
+53,Manufacturing,China
+58,Food & Beverage,China
+57,Technology,China
+38,Fashion & Retail,China
+59,Fashion & Retail,China
+61,Finance & Investments,China
+54,Manufacturing,China
+53,Manufacturing,China
+64,Manufacturing,China
+81,Real Estate,China
+54,Technology,China
+73,Manufacturing,China
+55,Manufacturing,China
+48,Manufacturing,China
+63,Real Estate,China
+60,Automotive,China
+57,Diversified,China
+49,Fashion & Retail,China
+59,Healthcare,China
+53,Food & Beverage,China
+41,Technology,China
+59,Food & Beverage,China
+64,Logistics,China
+62,Real Estate,China
+51,Logistics,China
+55,Telecom,China
+61,Finance & Investments,China
+66,Technology,China
+59,Healthcare,China
+55,Diversified,China
+56,Healthcare,China
+58,Manufacturing,China
+58,Technology,China
+70,Real Estate,China
+35,Fashion & Retail,China
+52,Manufacturing,China
+70,Fashion & Retail,China
+49,Media & Entertainment,China
+40,Media & Entertainment,China
+70,Manufacturing,China
+82,Real Estate,China
+57,Manufacturing,China
+53,Healthcare,China
+66,Healthcare,China
+44,Automotive,China
+80,Manufacturing,China
+56,Technology,China
+40,Automotive,China
+54,Finance & Investments,China
+82,Logistics,China
+72,Healthcare,China
+64,Manufacturing,China
+56,Technology,China
+86,Manufacturing,China
+55,Fashion & Retail,China
+58,Automotive,China
+53,Food & Beverage,China
+60,Manufacturing,China
+75,Manufacturing,China
+60,Healthcare,China
+58,Manufacturing,China
+59,Diversified,China
+75,Diversified,China
+79,Logistics,China
+73,Fashion & Retail,China
+66,Food & Beverage,China
+60,Fashion & Retail,China
+63,Manufacturing,China
+52,Manufacturing,China
+72,Manufacturing,China
+46,Service,China
+86,Energy,China
+60,Real Estate,China
+60,Automotive,China
+52,Manufacturing,China
+38,Media & Entertainment,China
+54,Technology,China
+46,Service,China
+70,Fashion & Retail,China
+78,Healthcare,China
+73,Healthcare,China
+64,Finance & Investments,China
+78,Healthcare,China
+65,Healthcare,China
+70,Real Estate,China
+53,Manufacturing,China
+56,Technology,China
+59,Manufacturing,China
+69,Healthcare,China
+59,Gambling & Casinos,China
+56,Real Estate,China
+73,Real Estate,China
+72,Diversified,China
+49,Manufacturing,China
+64,Diversified,China
+51,Diversified,China
+51,Technology,China
+56,Technology,China
+61,Manufacturing,China
+56,Technology,China
+53,Food & Beverage,China
+35,Media & Entertainment,China
+58,Energy,China
+87,Food & Beverage,China
+71,Healthcare,China
+49,Finance & Investments,China
+56,Real Estate,China
+64,Healthcare,China
+54,Food & Beverage,China
+58,Fashion & Retail,China
+74,Construction & Engineering,China
+58,Technology,China
+56,Finance & Investments,China
+59,Technology,China
+66,Manufacturing,China
+60,Healthcare,China
+54,Energy,China
+51,Automotive,China
+56,Energy,China
+58,Manufacturing,China
+61,Fashion & Retail,China
+70,Manufacturing,China
+56,Real Estate,China
+52,Healthcare,China
+54,Manufacturing,China
+36,Real Estate,China
+61,Real Estate,China
+57,Fashion & Retail,China
+59,Real Estate,China
+72,Manufacturing,China
+84,Logistics,China
+73,Manufacturing,China
+57,Manufacturing,China
+87,Manufacturing,China
+59,Healthcare,China
+55,Technology,China
+54,Finance & Investments,China
+61,Metals & Mining,China
+58,Manufacturing,China
+56,Healthcare,China
+56,Manufacturing,China
+46,Technology,China
+71,Finance & Investments,China
+51,Healthcare,China
+69,Manufacturing,China
+52,Healthcare,China
+79,Automotive,China
+53,Construction & Engineering,China
+55,Manufacturing,China
+57,Technology,China
+47,Automotive,China
+54,Manufacturing,China
+64,Fashion & Retail,China
+70,Food & Beverage,China
+76,Technology,China
+58,Technology,China
+56,Logistics,China
+48,Manufacturing,China
+56,Healthcare,China
+51,Technology,China
+56,Technology,China
+57,Healthcare,China
+50,Technology,China
+88,Fashion & Retail,China
+67,Diversified,China
+69,Real Estate,China
+58,Energy,China
+52,Manufacturing,China
+58,Real Estate,China
+39,Real Estate,China
+39,Technology,China
+57,Manufacturing,China
+60,Manufacturing,China
+76,Metals & Mining,China
+59,Diversified,China
+72,Food & Beverage,China
+55,Energy,China
+54,Food & Beverage,China
+72,Manufacturing,China
+52,Logistics,China
+57,Healthcare,China
+68,Diversified,China
+58,Healthcare,China
+30,Real Estate,China
+49,Technology,China
+56,Real Estate,China
+54,Diversified,China
+60,Energy,China
+53,Metals & Mining,China
+42,Technology,China
+68,Technology,China
+55,Fashion & Retail,China
+45,Energy,China
+51,Manufacturing,China
+51,Manufacturing,China
+61,Metals & Mining,China
+63,Healthcare,China
+57,Healthcare,China
+47,Fashion & Retail,China
+65,Manufacturing,China
+46,Metals & Mining,China
+51,Technology,China
+65,Manufacturing,China
+55,Manufacturing,China
+73,Real Estate,China
+90,Fashion & Retail,China
+65,Fashion & Retail,China
+57,Manufacturing,China
+58,Manufacturing,China
+56,Manufacturing,China
+39,Technology,China
+47,Technology,China
+43,Manufacturing,China
+61,Energy,China
+59,Manufacturing,China
+55,Real Estate,China
+53,Food & Beverage,China
+88,Fashion & Retail,China
+86,Manufacturing,China
+56,Food & Beverage,China
+74,Energy,China
+62,Fashion & Retail,China
+67,Manufacturing,China
+65,Manufacturing,China
+48,Technology,China
+49,Technology,China
+49,Real Estate,China
+72,Fashion & Retail,China
+51,Healthcare,China
+52,Manufacturing,China
+68,Food & Beverage,China
+68,Manufacturing,China
+69,Real Estate,China
+63,Media & Entertainment,China
+70,Real Estate,China
+69,Healthcare,China
+55,Real Estate,China
+67,Real Estate,China
+52,Technology,China
+60,Real Estate,China
+48,Healthcare,China
+48,Technology,China
+72,Manufacturing,China
+56,Media & Entertainment,China
+66,Real Estate,China
+53,Manufacturing,China
+63,Food & Beverage,China
+63,Technology,China
+71,Manufacturing,China
+54,Energy,China
+46,Logistics,China
+70,Healthcare,China
+51,Technology,China
+73,Healthcare,China
+61,Manufacturing,China
+48,Manufacturing,China
+68,Manufacturing,China
+58,Manufacturing,China
+65,Manufacturing,China
+37,Fashion & Retail,China
+62,Fashion & Retail,China
+77,Service,China
+48,Manufacturing,China
+52,Healthcare,China
+59,Manufacturing,China
+52,Automotive,China
+57,Manufacturing,China
+59,Manufacturing,China
+74,Metals & Mining,China
+70,Technology,China
+52,Automotive,China
+48,Technology,China
+59,Metals & Mining,China
+49,Manufacturing,China
+45,Technology,China
+45,Manufacturing,China
+48,Manufacturing,China
+67,Manufacturing,China
+58,Manufacturing,China
+54,Manufacturing,China
+75,Manufacturing,China
+86,Real Estate,China
+53,Food & Beverage,China
+57,Food & Beverage,China
+61,Diversified,China
+54,Manufacturing,China
+47,Technology,China
+86,Manufacturing,China
+57,Food & Beverage,China
+71,Technology,China
+59,Telecom,China
+65,Fashion & Retail,China
+49,Technology,China
+48,Manufacturing,China
+55,Manufacturing,China
+37,Technology,China
+58,Technology,China
+55,Manufacturing,China
+31,Healthcare,China
+67,Healthcare,China
+49,Technology,China
+72,Food & Beverage,China
+52,Manufacturing,China
+58,Manufacturing,China
+70,Fashion & Retail,China
+65,Real Estate,China
+57,Manufacturing,China
+49,Construction & Engineering,China
+59,Manufacturing,China
+73,Real Estate,China
+58,Logistics,China
+57,Healthcare,China
+56,Food & Beverage,China
+59,Healthcare,China
+59,Manufacturing,China
+57,Manufacturing,China
+68,Food & Beverage,China
+58,Manufacturing,China
+60,Manufacturing,China
+61,Food & Beverage,China
+62,Real Estate,China
+53,Manufacturing,China
+61,Real Estate,China
+61,Manufacturing,China
+60,Healthcare,China
+62,Food & Beverage,China
+53,Food & Beverage,China
+57,Healthcare,China
+53,Healthcare,China
+59,Real Estate,China
+57,Manufacturing,China
+58,Finance & Investments,China
+70,Real Estate,China
+56,Healthcare,China
+55,Manufacturing,China
+61,Diversified,China
+67,Healthcare,China
+54,Real Estate,China
+36,Real Estate,China
+41,Real Estate,China
+52,Logistics,China
+58,Manufacturing,China
+51,Telecom,China
+81,Technology,China
+73,Manufacturing,China
+56,Manufacturing,China
+39,Food & Beverage,China
+56,Finance & Investments,China
+53,Service,China
+25,Metals & Mining,China
+52,Telecom,China
+46,Technology,China
+77,Service,China
+71,Telecom,China
+50,Real Estate,China
+59,Manufacturing,China
+50,Fashion & Retail,China
+65,Manufacturing,China
+56,Fashion & Retail,China
+54,Technology,China
+64,Food & Beverage,China
+71,Manufacturing,China
+51,Fashion & Retail,China
+57,Manufacturing,China
+60,Healthcare,China
+55,Manufacturing,China
+57,Fashion & Retail,China
+60,Technology,China
+71,Automotive,China
+58,Healthcare,China
+58,Manufacturing,China
+59,Manufacturing,China
+48,Technology,China
+67,Real Estate,China
+68,Technology,China
+46,Technology,China
+67,Manufacturing,China
+73,Diversified,China
+59,Manufacturing,China
+42,Technology,China
+48,Food & Beverage,China
+59,Technology,China
+52,Manufacturing,China
+56,Manufacturing,China
+39,Technology,China
+58,Manufacturing,China
+54,Energy,China
+53,Healthcare,China
+59,Manufacturing,China
+54,Manufacturing,China
+56,Food & Beverage,China
+63,Manufacturing,China
+62,Real Estate,China
+63,Manufacturing,China
+68,Real Estate,China
+60,Diversified,China
+44,Finance & Investments,China
+42,Healthcare,China
+46,Healthcare,China
+48,Healthcare,China
+59,Energy,China
+71,Diversified,China
+58,Technology,China
+53,Technology,China
+54,Healthcare,China
+51,Food & Beverage,China
+82,Logistics,China
+81,Food & Beverage,China
+34,Diversified,China
+59,Technology,China
+56,Manufacturing,China
+59,Food & Beverage,China
+58,Manufacturing,China
+57,Food & Beverage,China
+52,Food & Beverage,China
+59,Diversified,China
+53,Manufacturing,China
+70,Real Estate,China
+51,Service,China
+50,Healthcare,China
+64,Technology,China
+62,Construction & Engineering,China
+63,Manufacturing,China
+54,Manufacturing,China
+57,Food & Beverage,China
+54,Energy,China
+65,Technology,China
+65,Manufacturing,China
+45,Technology,China
+52,Healthcare,China
+55,Real Estate,China
+65,Technology,China
+70,Real Estate,China
+54,Food & Beverage,China
+54,Automotive,China
+44,Technology,China
+44,Media & Entertainment,China
+60,Telecom,China
+52,Real Estate,China
+52,Fashion & Retail,China
+52,Automotive,China
+57,Logistics,China
+53,Healthcare,China
+52,Manufacturing,China
+56,Healthcare,China
+60,Healthcare,China
+60,Manufacturing,China
+67,Healthcare,China
+50,Media & Entertainment,China
+39,Metals & Mining,China
+54,Telecom,China
+56,Telecom,China
+59,Manufacturing,China
+53,Healthcare,China
+52,Food & Beverage,China
+54,Technology,China
+48,Technology,China
+52,Technology,China
+56,Manufacturing,China
+65,Manufacturing,China
+57,Healthcare,China
+59,Healthcare,China
+53,Healthcare,China
+59,Manufacturing,China
+58,Healthcare,China
+54,Real Estate,China
+72,Manufacturing,China
+51,Manufacturing,China
+54,Healthcare,China
+59,Healthcare,China
+47,Technology,China
+58,Manufacturing,China
+65,Manufacturing,China
+72,Manufacturing,China
+52,Manufacturing,China
+51,Fashion & Retail,China
+52,Food & Beverage,China
+57,Manufacturing,China
+48,Healthcare,China
+52,Technology,China
+71,Real Estate,China
+62,Healthcare,China
+50,Healthcare,China
+54,Manufacturing,China
+57,Healthcare,China
+54,Energy,China
+58,Healthcare,China
+63,Real Estate,China
+64,Finance & Investments,China
+69,Manufacturing,China
+51,Healthcare,China
+55,Manufacturing,China
+55,Manufacturing,China
+57,Manufacturing,China
+54,Manufacturing,China
+59,Healthcare,China
+55,Healthcare,China
+60,Metals & Mining,China
+68,Fashion & Retail,China
+45,Technology,China
+58,Healthcare,China
+78,Telecom,China
+68,Real Estate,China
+55,Manufacturing,China
+50,Service,China
+51,Manufacturing,China
+47,Technology,China
+53,Fashion & Retail,China
+67,Technology,China
+57,Construction & Engineering,China
+66,Manufacturing,China
+59,Technology,China
+57,Manufacturing,China
+43,Energy,China
+59,Manufacturing,China
+89,Finance & Investments,Colombia
+54,Finance & Investments,Czechia
+46,Energy,Czechia
+67,Food & Beverage,Czechia
+56,Technology,Czechia
+57,Metals & Mining,Czechia
+45,Technology,Czechia
+61,Technology,Czechia
+50,Real Estate,Czechia
+52,Finance & Investments,Czechia
+69,Technology,Czechia
+49,Fashion & Retail,Denmark
+74,Manufacturing,Denmark
+46,Manufacturing,Denmark
+43,Manufacturing,Denmark
+38,Manufacturing,Denmark
+74,Healthcare,Denmark
+39,Technology,Denmark
+44,Technology,Denmark
+70,Manufacturing,Denmark
+61,Construction & Engineering,Egypt
+67,Telecom,Egypt
+74,Diversified,Egypt
+76,Diversified,Egypt
+60,Diversified,Egypt
+90,Fashion & Retail,Eswatini (Swaziland)
+65,Manufacturing,Finland
+63,Manufacturing,Finland
+82,Diversified,Finland
+57,Manufacturing,Finland
+76,Healthcare,Finland
+55,Energy,Finland
+35,Manufacturing,Finland
+73,Fashion & Retail,France
+68,Fashion & Retail,France
+52,Logistics,France
+85,Fashion & Retail,France
+51,Food & Beverage,France
+54,Telecom,France
+68,Diversified,France
+65,Diversified,France
+57,Diversified,France
+54,Food & Beverage,France
+41,Food & Beverage,France
+70,Finance & Investments,France
+84,Healthcare,France
+81,Finance & Investments,France
+58,Healthcare,France
+82,Fashion & Retail,France
+84,Manufacturing,France
+82,Service,France
+74,Construction & Engineering,France
+68,Diversified,France
+65,Healthcare,France
+75,Food & Beverage,France
+81,Finance & Investments,France
+73,Automotive,France
+74,Real Estate,France
+56,Healthcare,France
+67,Logistics,France
+68,Fashion & Retail,France
+90,Construction & Engineering,France
+43,Construction & Engineering,France
+74,Finance & Investments,France
+81,Food & Beverage,France
+79,Food & Beverage,France
+66,Finance & Investments,Georgia
+82,Fashion & Retail,Germany
+59,Automotive,Germany
+55,Automotive,Germany
+86,Manufacturing,Germany
+71,Fashion & Retail,Germany
+72,Healthcare,Germany
+72,Healthcare,Germany
+54,Real Estate,Germany
+75,Manufacturing,Germany
+78,Fashion & Retail,Germany
+57,Automotive,Germany
+78,Technology,Germany
+55,Food & Beverage,Germany
+75,Manufacturing,Germany
+57,Finance & Investments,Germany
+69,Fashion & Retail,Germany
+57,Fashion & Retail,Germany
+70,Energy,Germany
+74,Manufacturing,Germany
+76,Food & Beverage,Germany
+81,Technology,Germany
+56,Healthcare,Germany
+80,Healthcare,Germany
+63,Real Estate,Germany
+82,Healthcare,Germany
+57,Fashion & Retail,Germany
+69,Finance & Investments,Germany
+78,Healthcare,Germany
+87,Gambling & Casinos,Germany
+78,Fashion & Retail,Germany
+71,Fashion & Retail,Germany
+88,Technology,Germany
+82,Media & Entertainment,Germany
+78,Food & Beverage,Germany
+70,Fashion & Retail,Germany
+50,Manufacturing,Germany
+79,Media & Entertainment,Germany
+58,Technology,Germany
+55,Fashion & Retail,Germany
+49,Fashion & Retail,Germany
+43,Fashion & Retail,Germany
+58,Media & Entertainment,Germany
+70,Service,Germany
+67,Healthcare,Germany
+84,Healthcare,Germany
+65,Healthcare,Germany
+44,Healthcare,Germany
+45,Media & Entertainment,Germany
+60,Manufacturing,Germany
+46,Finance & Investments,Germany
+70,Manufacturing,Germany
+77,Automotive,Germany
+82,Technology,Germany
+89,Fashion & Retail,Germany
+75,Fashion & Retail,Germany
+60,Fashion & Retail,Germany
+55,Fashion & Retail,Germany
+80,Automotive,Germany
+66,Fashion & Retail,Germany
+68,Manufacturing,Germany
+55,Manufacturing,Germany
+59,Manufacturing,Germany
+62,Manufacturing,Germany
+43,Food & Beverage,Germany
+88,Food & Beverage,Germany
+76,Manufacturing,Germany
+75,Healthcare,Germany
+65,Food & Beverage,Germany
+45,Healthcare,Germany
+35,Healthcare,Germany
+59,Media & Entertainment,Germany
+,Automotive,Germany
+57,Finance & Investments,Germany
+62,Finance & Investments,Germany
+71,Fashion & Retail,Germany
+74,Fashion & Retail,Germany
+43,Healthcare,Germany
+42,Automotive,Germany
+39,Automotive,Germany
+32,Healthcare,Germany
+38,Healthcare,Germany
+65,Fashion & Retail,Germany
+67,Finance & Investments,Germany
+62,Finance & Investments,Germany
+80,Fashion & Retail,Germany
+56,Real Estate,Germany
+47,Manufacturing,Germany
+55,Manufacturing,Germany
+53,Media & Entertainment,Germany
+42,Healthcare,Germany
+39,Healthcare,Germany
+69,Food & Beverage,Germany
+60,Media & Entertainment,Germany
+48,Technology,Germany
+70,Manufacturing,Germany
+89,Energy,Greece
+69,Finance & Investments,Guernsey
+69,Diversified,Hungary
+56,Diversified,Hungary
+64,Diversified,India
+59,Diversified,India
+76,Technology,India
+80,Healthcare,India
+67,Fashion & Retail,India
+72,Metals & Mining,India
+54,Diversified,India
+66,Healthcare,India
+92,Construction & Engineering,India
+63,Finance & Investments,India
+64,Telecom,India
+76,Technology,India
+90,Real Estate,India
+71,Healthcare,India
+64,Fashion & Retail,India
+79,Manufacturing,India
+88,Healthcare,India
+90,Manufacturing,India
+80,Manufacturing,India
+61,Finance & Investments,India
+67,Food & Beverage,India
+66,Real Estate,India
+59,Fashion & Retail,India
+75,Technology,India
+80,Automotive,India
+66,Healthcare,India
+67,Technology,India
+69,Healthcare,India
+71,Manufacturing,India
+74,Manufacturing,India
+64,Healthcare,India
+40,Technology,India
+81,Real Estate,India
+66,Technology,India
+81,Manufacturing,India
+69,Healthcare,India
+78,Food & Beverage,India
+51,Real Estate,India
+70,Food & Beverage,India
+58,Healthcare,India
+67,Healthcare,India
+68,Automotive,India
+75,Manufacturing,India
+78,Diversified,India
+64,Automotive,India
+67,Technology,India
+77,Automotive,India
+84,Food & Beverage,India
+66,Manufacturing,India
+58,Technology,India
+60,Manufacturing,India
+63,Manufacturing,India
+64,Automotive,India
+65,Automotive,India
+71,Diversified,India
+80,Diversified,India
+73,Diversified,India
+71,Diversified,India
+61,Diversified,India
+73,Construction & Engineering,India
+87,Food & Beverage,India
+91,Automotive,India
+45,Fashion & Retail,India
+70,Diversified,India
+90,Healthcare,India
+63,Healthcare,India
+69,Healthcare,India
+74,Healthcare,India
+56,Media & Entertainment,India
+67,Diversified,India
+74,Manufacturing,India
+69,Food & Beverage,India
+73,Food & Beverage,India
+85,Healthcare,India
+74,Manufacturing,India
+67,Technology,India
+64,Diversified,India
+64,Manufacturing,India
+83,Manufacturing,India
+56,Real Estate,India
+64,Healthcare,India
+69,Manufacturing,India
+79,Construction & Engineering,India
+65,Fashion & Retail,India
+49,Food & Beverage,India
+51,Healthcare,India
+56,Healthcare,India
+69,Fashion & Retail,India
+80,Manufacturing,India
+74,Manufacturing,India
+79,Fashion & Retail,India
+88,Manufacturing,India
+66,Diversified,India
+65,Manufacturing,India
+64,Healthcare,India
+81,Healthcare,India
+49,Technology,India
+65,Diversified,India
+69,Healthcare,India
+52,Food & Beverage,India
+60,Manufacturing,India
+50,Automotive,India
+72,Healthcare,India
+75,Healthcare,India
+55,Manufacturing,India
+72,Real Estate,India
+75,Finance & Investments,India
+71,Fashion & Retail,India
+71,Logistics,India
+77,Fashion & Retail,India
+73,Fashion & Retail,India
+68,Fashion & Retail,India
+76,Fashion & Retail,India
+66,Healthcare,India
+73,Manufacturing,India
+66,Finance & Investments,India
+69,Finance & Investments,India
+71,Finance & Investments,India
+61,Finance & Investments,India
+49,Service,India
+78,Real Estate,India
+70,Manufacturing,India
+40,Fashion & Retail,India
+59,Technology,India
+75,Healthcare,India
+56,Healthcare,India
+77,Real Estate,India
+69,Manufacturing,India
+39,Technology,India
+64,Construction & Engineering,India
+52,Construction & Engineering,India
+54,Healthcare,India
+50,Technology,India
+51,Finance & Investments,India
+70,Manufacturing,India
+79,Food & Beverage,India
+73,Manufacturing,India
+54,Technology,India
+43,Service,India
+69,Healthcare,India
+81,Healthcare,India
+95,Healthcare,India
+85,Automotive,India
+68,Diversified,India
+60,Manufacturing,India
+79,Technology,India
+69,Automotive,India
+53,Manufacturing,India
+61,Manufacturing,India
+68,Fashion & Retail,India
+61,Healthcare,India
+66,Real Estate,India
+77,Construction & Engineering,India
+77,Finance & Investments,India
+76,Healthcare,India
+81,Finance & Investments,Indonesia
+82,Manufacturing,Indonesia
+59,Diversified,Indonesia
+77,Diversified,Indonesia
+73,Energy,Indonesia
+56,Finance & Investments,Indonesia
+78,Diversified,Indonesia
+68,Media & Entertainment,Indonesia
+70,Diversified,Indonesia
+68,Technology,Indonesia
+72,Finance & Investments,Indonesia
+82,Energy,Indonesia
+72,Fashion & Retail,Indonesia
+92,Diversified,Indonesia
+63,Food & Beverage,Indonesia
+72,Energy,Indonesia
+56,Media & Entertainment,Indonesia
+60,Technology,Indonesia
+55,Finance & Investments,Indonesia
+72,Food & Beverage,Indonesia
+81,Diversified,Indonesia
+76,Manufacturing,Indonesia
+76,Real Estate,Indonesia
+93,Energy,Indonesia
+66,Media & Entertainment,Indonesia
+63,Telecom,Ireland
+79,Manufacturing,Ireland
+78,Food & Beverage,Ireland
+71,Finance & Investments,Ireland
+91,Real Estate,Israel
+95,Manufacturing,Israel
+50,Gambling & Casinos,Israel
+64,Service,Israel
+73,Real Estate,Israel
+77,Media & Entertainment,Israel
+53,Technology,Israel
+78,Technology,Israel
+64,Food & Beverage,Israel
+56,Technology,Israel
+77,Automotive,Israel
+62,Finance & Investments,Israel
+68,Finance & Investments,Israel
+78,Diversified,Israel
+69,Healthcare,Israel
+63,Automotive,Israel
+54,Real Estate,Israel
+61,Automotive,Israel
+56,Technology,Israel
+66,Food & Beverage,Israel
+86,Finance & Investments,Israel
+64,Service,Israel
+48,Metals & Mining,Israel
+92,Technology,Israel
+86,Fashion & Retail,Italy
+87,Fashion & Retail,Italy
+85,Diversified,Italy
+79,Healthcare,Italy
+70,Finance & Investments,Italy
+82,Fashion & Retail,Italy
+76,Automotive,Italy
+67,Telecom,Italy
+76,Fashion & Retail,Italy
+72,Fashion & Retail,Italy
+79,Construction & Engineering,Italy
+53,Food & Beverage,Italy
+65,Manufacturing,Italy
+79,Healthcare,Italy
+85,Healthcare,Italy
+66,Fashion & Retail,Italy
+86,Manufacturing,Italy
+62,Food & Beverage,Italy
+60,Fashion & Retail,Italy
+76,Manufacturing,Italy
+84,Fashion & Retail,Italy
+86,Fashion & Retail,Italy
+54,Manufacturing,Italy
+81,Automotive,Italy
+46,Finance & Investments,Italy
+68,Fashion & Retail,Italy
+81,Fashion & Retail,Italy
+87,Diversified,Italy
+69,Fashion & Retail,Italy
+68,Fashion & Retail,Italy
+76,Fashion & Retail,Italy
+84,Fashion & Retail,Italy
+81,Food & Beverage,Italy
+44,Food & Beverage,Italy
+63,Fashion & Retail,Italy
+59,Fashion & Retail,Italy
+76,Energy,Italy
+60,Manufacturing,Italy
+48,Fashion & Retail,Italy
+68,Fashion & Retail,Italy
+68,Diversified,Italy
+74,Finance & Investments,Italy
+52,Fashion & Retail,Italy
+44,Construction & Engineering,Italy
+50,Construction & Engineering,Italy
+50,Construction & Engineering,Italy
+62,Fashion & Retail,Italy
+82,Food & Beverage,Italy
+57,Healthcare,Italy
+73,Fashion & Retail,Japan
+76,Manufacturing,Japan
+64,Telecom,Japan
+60,Fashion & Retail,Japan
+77,Manufacturing,Japan
+57,Fashion & Retail,Japan
+97,Fashion & Retail,Japan
+78,Fashion & Retail,Japan
+85,Real Estate,Japan
+83,Technology,Japan
+57,Telecom,Japan
+66,Fashion & Retail,Japan
+75,Fashion & Retail,Japan
+76,Real Estate,Japan
+56,Real Estate,Japan
+75,Logistics,Japan
+68,Technology,Japan
+46,Technology,Japan
+74,Media & Entertainment,Japan
+81,Technology,Japan
+79,Gambling & Casinos,Japan
+57,Healthcare,Japan
+73,Food & Beverage,Japan
+48,Media & Entertainment,Japan
+81,Real Estate,Japan
+80,Gambling & Casinos,Japan
+96,Fashion & Retail,Japan
+76,Food & Beverage,Japan
+45,Technology,Japan
+75,Fashion & Retail,Japan
+45,Technology,Japan
+81,Fashion & Retail,Japan
+75,Automotive,Japan
+47,Technology,Japan
+69,Technology,Japan
+44,Technology,Japan
+61,Metals & Mining,Kazakhstan
+55,Finance & Investments,Kazakhstan
+54,Finance & Investments,Kazakhstan
+64,Metals & Mining,Kazakhstan
+34,Finance & Investments,Kazakhstan
+52,Finance & Investments,Kazakhstan
+46,Finance & Investments,Kazakhstan
+66,Telecom,Lebanon
+77,Telecom,Lebanon
+64,Healthcare,Liechtenstein
+80,Diversified,Malaysia
+92,Finance & Investments,Malaysia
+84,Telecom,Malaysia
+60,Manufacturing,Malaysia
+86,Diversified,Malaysia
+74,Manufacturing,Malaysia
+70,Gambling & Casinos,Malaysia
+77,Logistics,Malaysia
+64,Manufacturing,Malaysia
+51,Fashion & Retail,Malaysia
+70,Construction & Engineering,Malaysia
+77,Real Estate,Malaysia
+65,Metals & Mining,Malaysia
+72,Diversified,Malaysia
+82,Telecom,Mexico
+68,Metals & Mining,Mexico
+66,Fashion & Retail,Mexico
+61,Diversified,Mexico
+58,Food & Beverage,Mexico
+54,Food & Beverage,Mexico
+83,Manufacturing,Mexico
+73,Metals & Mining,Mexico
+74,Diversified,Mexico
+70,Service,Mexico
+80,Finance & Investments,Mexico
+78,Finance & Investments,Mexico
+54,Media & Entertainment,Mexico
+48,Construction & Engineering,Mexico
+71,Diversified,Monaco
+80,Fashion & Retail,Monaco
+75,Finance & Investments,Monaco
+80,Diversified,Monaco
+55,Manufacturing,Monaco
+66,Diversified,Monaco
+50,Healthcare,Monaco
+87,Food & Beverage,Monaco
+68,Service,Monaco
+76,Finance & Investments,Monaco
+62,Real Estate,Monaco
+55,Service,Monaco
+62,Service,Monaco
+61,Diversified,Morocco
+89,Finance & Investments,Morocco
+66,Diversified,Nepal
+88,Service,Netherlands
+54,Technology,Netherlands
+83,Finance & Investments,Netherlands
+78,Manufacturing,Netherlands
+52,Technology,Netherlands
+67,Media & Entertainment,Netherlands
+56,Real Estate,Netherlands
+80,Media & Entertainment,Netherlands
+74,Manufacturing,Netherlands
+46,Technology,Netherlands
+66,Finance & Investments,New Zealand
+60,Media & Entertainment,New Zealand
+76,Service,New Zealand
+64,Manufacturing,Nigeria
+68,Diversified,Nigeria
+61,Diversified,Nigeria
+60,Real Estate,Norway
+70,Fashion & Retail,Norway
+63,Logistics,Norway
+28,Food & Beverage,Norway
+65,Fashion & Retail,Norway
+55,Fashion & Retail,Norway
+25,Diversified,Norway
+26,Diversified,Norway
+59,Service,Norway
+79,Finance & Investments,Norway
+83,Diversified,Oman
+62,Finance & Investments,Peru
+97,Diversified,Peru
+58,Metals & Mining,Peru
+72,Real Estate,Philippines
+62,Logistics,Philippines
+69,Diversified,Philippines
+70,Diversified,Philippines
+66,Diversified,Philippines
+65,Diversified,Philippines
+62,Diversified,Philippines
+71,Diversified,Philippines
+69,Diversified,Philippines
+68,Food & Beverage,Philippines
+54,Diversified,Philippines
+69,Food & Beverage,Philippines
+67,Food & Beverage,Philippines
+87,Diversified,Philippines
+53,Telecom,Philippines
+82,Fashion & Retail,Philippines
+71,Fashion & Retail,Philippines
+85,Diversified,Philippines
+55,Telecom,Philippines
+59,Finance & Investments,Poland
+74,Healthcare,Poland
+49,Fashion & Retail,Poland
+65,Media & Entertainment,Poland
+44,Finance & Investments,Poland
+59,Diversified,Poland
+87,Diversified,Portugal
+74,Diversified,Qatar
+62,Finance & Investments,Qatar
+82,Finance & Investments,Romania
+55,Fashion & Retail,Romania
+53,Fashion & Retail,Romania
+65,Metals & Mining,Russia
+61,Metals & Mining,Russia
+66,Energy,Russia
+56,Metals & Mining,Russia
+68,Metals & Mining,Russia
+69,Energy,Russia
+50,Metals & Mining,Russia
+71,Energy,Russia
+56,Finance & Investments,Russia
+55,Diversified,Russia
+73,Manufacturing,Russia
+59,Energy,Russia
+63,Metals & Mining,Russia
+64,Energy,Russia
+66,Energy,Russia
+62,Manufacturing,Russia
+56,Metals & Mining,Russia
+56,Finance & Investments,Russia
+67,Finance & Investments,Russia
+58,Metals & Mining,Russia
+54,Fashion & Retail,Russia
+55,Fashion & Retail,Russia
+57,Metals & Mining,Russia
+54,Finance & Investments,Russia
+46,Fashion & Retail,Russia
+54,Logistics,Russia
+61,Metals & Mining,Russia
+59,Finance & Investments,Russia
+57,Logistics,Russia
+51,Metals & Mining,Russia
+66,Energy,Russia
+54,Metals & Mining,Russia
+53,Service,Russia
+70,Construction & Engineering,Russia
+73,Telecom,Russia
+70,Metals & Mining,Russia
+49,Real Estate,Russia
+63,Diversified,Russia
+54,Energy,Russia
+53,Metals & Mining,Russia
+49,Healthcare,Russia
+69,Metals & Mining,Russia
+54,Food & Beverage,Russia
+42,Healthcare,Russia
+64,Finance & Investments,Russia
+64,Energy,Russia
+55,Real Estate,Russia
+70,Finance & Investments,Russia
+49,Real Estate,Russia
+69,Diversified,Russia
+68,Energy,Russia
+55,Manufacturing,Russia
+55,Telecom,Russia
+61,Energy,Russia
+76,Finance & Investments,Russia
+58,Finance & Investments,Russia
+60,Energy,Russia
+57,Energy,Russia
+56,Construction & Engineering,Russia
+50,Manufacturing,Russia
+55,Manufacturing,Russia
+49,Manufacturing,Russia
+65,Energy,Russia
+56,Technology,Russia
+65,Construction & Engineering,Russia
+44,Finance & Investments,Singapore
+94,Manufacturing,Singapore
+40,Technology,Singapore
+93,Finance & Investments,Singapore
+67,Technology,Singapore
+44,Media & Entertainment,Singapore
+51,Food & Beverage,Singapore
+72,Manufacturing,Singapore
+41,Media & Entertainment,Singapore
+62,Manufacturing,Singapore
+81,Diversified,Singapore
+65,Metals & Mining,Singapore
+72,Fashion & Retail,Singapore
+67,Real Estate,Singapore
+68,Real Estate,Singapore
+68,Finance & Investments,Singapore
+63,Finance & Investments,Singapore
+71,Metals & Mining,Singapore
+52,Energy,Singapore
+67,Diversified,Singapore
+72,Diversified,Singapore
+74,Finance & Investments,Singapore
+75,Food & Beverage,Singapore
+67,Real Estate,Singapore
+64,Real Estate,Singapore
+52,Food & Beverage,Singapore
+39,Technology,Singapore
+73,Real Estate,Singapore
+63,Fashion & Retail,Singapore
+56,Technology,Singapore
+66,Diversified,Singapore
+58,Real Estate,Singapore
+82,Manufacturing,Singapore
+54,Real Estate,Slovakia
+52,Finance & Investments,Slovakia
+71,Fashion & Retail,South Africa
+76,Metals & Mining,South Africa
+60,Metals & Mining,South Africa
+69,Media & Entertainment,South Africa
+72,Finance & Investments,South Africa
+56,Technology,South Korea
+53,Diversified,South Korea
+58,Finance & Investments,South Korea
+64,Healthcare,South Korea
+48,Technology,South Korea
+76,Technology,South Korea
+84,Automotive,South Korea
+51,Service,South Korea
+43,Finance & Investments,South Korea
+48,Diversified,South Korea
+43,Technology,South Korea
+51,Logistics,South Korea
+49,Media & Entertainment,South Korea
+52,Media & Entertainment,South Korea
+63,Finance & Investments,South Korea
+59,Fashion & Retail,South Korea
+61,Telecom,South Korea
+60,Healthcare,South Korea
+54,Technology,South Korea
+61,Fashion & Retail,South Korea
+42,Technology,South Korea
+46,Finance & Investments,South Korea
+53,Media & Entertainment,South Korea
+48,Technology,South Korea
+50,Manufacturing,South Korea
+55,Media & Entertainment,South Korea
+44,Diversified,South Korea
+81,Construction & Engineering,South Korea
+53,Fashion & Retail,South Korea
+57,Technology,South Korea
+77,Diversified,South Korea
+61,Construction & Engineering,South Korea
+49,Food & Beverage,South Korea
+59,Diversified,South Korea
+60,Manufacturing,South Korea
+40,Technology,South Korea
+50,Media & Entertainment,South Korea
+69,Fashion & Retail,South Korea
+47,Fashion & Retail,South Korea
+73,Manufacturing,South Korea
+63,Technology,South Korea
+63,Finance & Investments,South Korea
+57,Technology,South Korea
+86,Fashion & Retail,Spain
+53,Fashion & Retail,Spain
+63,Construction & Engineering,Spain
+72,Fashion & Retail,Spain
+83,Service,Spain
+62,Finance & Investments,Spain
+80,Finance & Investments,Spain
+68,Finance & Investments,Spain
+68,Fashion & Retail,Spain
+66,Construction & Engineering,Spain
+71,Fashion & Retail,Spain
+75,Construction & Engineering,Spain
+59,Construction & Engineering,Spain
+56,Food & Beverage,Spain
+72,Fashion & Retail,Spain
+48,Real Estate,Spain
+77,Gambling & Casinos,Spain
+74,Fashion & Retail,Spain
+79,Finance & Investments,Spain
+76,Finance & Investments,Spain
+75,Service,Spain
+87,Service,Spain
+86,Healthcare,Spain
+80,Healthcare,Spain
+57,Manufacturing,Spain
+74,Fashion & Retail,Sweden
+74,Finance & Investments,Sweden
+70,Finance & Investments,Sweden
+84,Diversified,Sweden
+78,Diversified,Sweden
+70,Real Estate,Sweden
+54,Real Estate,Sweden
+40,Finance & Investments,Sweden
+60,Diversified,Sweden
+53,Diversified,Sweden
+40,Finance & Investments,Sweden
+53,Technology,Sweden
+75,Diversified,Sweden
+39,Technology,Sweden
+72,Fashion & Retail,Sweden
+80,Real Estate,Sweden
+50,Real Estate,Sweden
+40,Diversified,Sweden
+42,Diversified,Sweden
+45,Media & Entertainment,Sweden
+61,Finance & Investments,Sweden
+47,Fashion & Retail,Sweden
+42,Media & Entertainment,Sweden
+37,Fashion & Retail,Sweden
+45,Fashion & Retail,Sweden
+51,Manufacturing,Sweden
+51,Gambling & Casinos,Sweden
+51,Gambling & Casinos,Sweden
+54,Real Estate,Sweden
+78,Finance & Investments,Sweden
+48,Finance & Investments,Sweden
+67,Finance & Investments,Sweden
+84,Logistics,Switzerland
+81,Logistics,Switzerland
+82,Food & Beverage,Switzerland
+54,Finance & Investments,Switzerland
+65,Metals & Mining,Switzerland
+56,Healthcare,Switzerland
+74,Food & Beverage,Switzerland
+53,Gambling & Casinos,Switzerland
+71,Healthcare,Switzerland
+46,Manufacturing,Switzerland
+53,Manufacturing,Switzerland
+69,Finance & Investments,Switzerland
+58,Telecom,Switzerland
+79,Fashion & Retail,Switzerland
+50,Real Estate,Switzerland
+58,Healthcare,Switzerland
+80,Healthcare,Switzerland
+76,Healthcare,Switzerland
+76,Manufacturing,Switzerland
+76,Construction & Engineering,Switzerland
+54,Healthcare,Switzerland
+82,Food & Beverage,Switzerland
+68,Technology,Switzerland
+95,Healthcare,Switzerland
+81,Service,Switzerland
+62,Manufacturing,Switzerland
+67,Healthcare,Switzerland
+59,Food & Beverage,Switzerland
+76,Finance & Investments,Switzerland
+58,Metals & Mining,Switzerland
+60,Metals & Mining,Switzerland
+80,Food & Beverage,Switzerland
+83,Fashion & Retail,Switzerland
+58,Finance & Investments,Switzerland
+78,Automotive,Switzerland
+74,Construction & Engineering,Switzerland
+50,Finance & Investments,Switzerland
+51,Manufacturing,Switzerland
+65,Technology,Switzerland
+62,Fashion & Retail,Switzerland
+47,Manufacturing,Switzerland
+81,Healthcare,Switzerland
+57,Finance & Investments,Switzerland
+54,Finance & Investments,Switzerland
+94,Service,Switzerland
+60,Finance & Investments,Switzerland
+57,Metals & Mining,Switzerland
+62,Finance & Investments,Switzerland
+75,Healthcare,Switzerland
+38,Diversified,Switzerland
+77,Healthcare,Switzerland
+74,Finance & Investments,Switzerland
+55,Real Estate,Switzerland
+50,Healthcare,Switzerland
+74,Fashion & Retail,Switzerland
+44,Healthcare,Switzerland
+68,Energy,Switzerland
+67,Finance & Investments,Switzerland
+48,Metals & Mining,Switzerland
+86,Fashion & Retail,Switzerland
+79,Service,Switzerland
+54,Food & Beverage,Switzerland
+41,Finance & Investments,Switzerland
+83,Manufacturing,Switzerland
+57,Diversified,Switzerland
+84,Finance & Investments,Switzerland
+59,Metals & Mining,Switzerland
+55,Real Estate,Switzerland
+57,Sports,Switzerland
+83,Fashion & Retail,Switzerland
+67,Healthcare,Switzerland
+93,Manufacturing,Taiwan
+71,Technology,Taiwan
+72,Technology,Taiwan
+71,Diversified,Taiwan
+69,Finance & Investments,Taiwan
+64,Finance & Investments,Taiwan
+72,Finance & Investments,Taiwan
+65,Finance & Investments,Taiwan
+65,Technology,Taiwan
+54,Finance & Investments,Taiwan
+77,Technology,Taiwan
+72,Fashion & Retail,Taiwan
+81,Finance & Investments,Taiwan
+67,Logistics,Taiwan
+71,Technology,Taiwan
+75,Real Estate,Taiwan
+90,Technology,Taiwan
+60,Manufacturing,Taiwan
+68,Technology,Taiwan
+77,Real Estate,Taiwan
+69,Finance & Investments,Taiwan
+79,Diversified,Taiwan
+81,Real Estate,Taiwan
+86,Technology,Taiwan
+72,Finance & Investments,Taiwan
+94,Manufacturing,Taiwan
+81,Manufacturing,Taiwan
+86,Real Estate,Taiwan
+69,Technology,Taiwan
+65,Food & Beverage,Taiwan
+67,Food & Beverage,Taiwan
+75,Real Estate,Taiwan
+63,Automotive,Taiwan
+89,Technology,Taiwan
+76,Finance & Investments,Taiwan
+65,Food & Beverage,Taiwan
+66,Manufacturing,Taiwan
+81,Manufacturing,Taiwan
+72,Technology,Taiwan
+46,Diversified,Tanzania
+82,Diversified,Thailand
+77,Food & Beverage,Thailand
+56,Energy,Thailand
+87,Diversified,Thailand
+92,Diversified,Thailand
+91,Diversified,Thailand
+54,Energy,Thailand
+89,Healthcare,Thailand
+90,Finance & Investments,Thailand
+69,Finance & Investments,Thailand
+63,Manufacturing,Thailand
+76,Food & Beverage,Thailand
+67,Diversified,Thailand
+75,Finance & Investments,Thailand
+71,Real Estate,Thailand
+75,Media & Entertainment,Thailand
+70,Diversified,Thailand
+72,Real Estate,Thailand
+50,Manufacturing,Thailand
+67,Food & Beverage,Thailand
+48,Finance & Investments,Thailand
+78,Manufacturing,Thailand
+71,Real Estate,Thailand
+70,Finance & Investments,Thailand
+64,Real Estate,Thailand
+88,Healthcare,Thailand
+63,Food & Beverage,Turkey
+58,Diversified,Turkey
+54,Construction & Engineering,Turkey
+55,Diversified,Turkey
+72,Diversified,Turkey
+72,Diversified,Turkey
+59,Manufacturing,Turkey
+93,Diversified,Turkey
+67,Diversified,Turkey
+64,Diversified,Turkey
+72,Diversified,Turkey
+67,Diversified,Turkey
+62,Manufacturing,Turkey
+91,Diversified,Turkey
+58,Fashion & Retail,Turkey
+65,Healthcare,Turkey
+76,Diversified,Turkey
+37,Diversified,Turkey
+66,Diversified,Turkey
+85,Media & Entertainment,Turkey
+63,Construction & Engineering,Turkey
+74,Telecom,Turkey
+84,Fashion & Retail,Turkey
+76,Finance & Investments,Turks and Caicos Islands
+55,Metals & Mining,Ukraine
+61,Metals & Mining,Ukraine
+58,Metals & Mining,Ukraine
+48,Metals & Mining,Ukraine
+60,Diversified,Ukraine
+59,Diversified,Ukraine
+37,Technology,United Arab Emirates
+66,Fashion & Retail,United Arab Emirates
+70,Fashion & Retail,United Arab Emirates
+69,Real Estate,United Arab Emirates
+68,Construction & Engineering,United Arab Emirates
+64,Service,United Arab Emirates
+72,Finance & Investments,United Arab Emirates
+45,Food & Beverage,United Arab Emirates
+64,Diversified,United Kingdom
+71,Metals & Mining,United Kingdom
+69,Manufacturing,United Kingdom
+67,Food & Beverage,United Kingdom
+77,Logistics,United Kingdom
+57,Energy,United Kingdom
+66,Diversified,United Kingdom
+67,Food & Beverage,United Kingdom
+62,Food & Beverage,United Kingdom
+69,Food & Beverage,United Kingdom
+74,Manufacturing,United Kingdom
+36,Media & Entertainment,United Kingdom
+40,Media & Entertainment,United Kingdom
+55,Finance & Investments,United Kingdom
+60,Energy,United Kingdom
+37,Finance & Investments,United Kingdom
+71,Energy,United Kingdom
+83,Real Estate,United Kingdom
+65,Finance & Investments,United Kingdom
+69,Manufacturing,United Kingdom
+76,Construction & Engineering,United Kingdom
+65,Manufacturing,United Kingdom
+66,Manufacturing,United Kingdom
+54,Gambling & Casinos,United Kingdom
+48,Gambling & Casinos,United Kingdom
+56,Finance & Investments,United Kingdom
+68,Manufacturing,United Kingdom
+57,Fashion & Retail,United Kingdom
+55,Real Estate,United Kingdom
+64,Finance & Investments,United Kingdom
+68,Metals & Mining,United Kingdom
+68,Finance & Investments,United Kingdom
+69,Telecom,United Kingdom
+86,Service,United Kingdom
+75,Finance & Investments,United Kingdom
+91,Sports,United Kingdom
+61,Telecom,United Kingdom
+62,Finance & Investments,United Kingdom
+62,Energy,United Kingdom
+77,Real Estate,United Kingdom
+67,Fashion & Retail,United Kingdom
+58,Healthcare,United Kingdom
+56,Healthcare,United Kingdom
+55,Diversified,United Kingdom
+52,Gambling & Casinos,United Kingdom
+54,Metals & Mining,United Kingdom
+70,Fashion & Retail,United Kingdom
+46,Metals & Mining,United Kingdom
+93,Fashion & Retail,United Kingdom
+69,Finance & Investments,United Kingdom
+48,Technology,United Kingdom
+49,Diversified,United Kingdom
+52,Diversified,United Kingdom
+78,Diversified,United Kingdom
+55,Finance & Investments,United Kingdom
+61,Finance & Investments,United Kingdom
+67,Diversified,United Kingdom
+79,Energy,United Kingdom
+58,Energy,United Kingdom
+64,Finance & Investments,United Kingdom
+81,Manufacturing,United Kingdom
+51,Finance & Investments,United Kingdom
+79,Fashion & Retail,United Kingdom
+59,Construction & Engineering,United Kingdom
+64,Fashion & Retail,United Kingdom
+54,Technology,United Kingdom
+73,Diversified,United Kingdom
+43,Automotive,United Kingdom
+70,Media & Entertainment,United Kingdom
+64,Technology,United Kingdom
+96,Fashion & Retail,United Kingdom
+57,Logistics,United Kingdom
+61,Finance & Investments,United Kingdom
+43,Finance & Investments,United Kingdom
+41,Construction & Engineering,United Kingdom
+75,Telecom,United Kingdom
+41,Finance & Investments,United Kingdom
+56,Finance & Investments,United Kingdom
+52,Finance & Investments,United Kingdom
+66,Finance & Investments,United Kingdom
+38,Finance & Investments,United Kingdom
+58,Telecom,United Kingdom
+50,Automotive,United States of America
+58,Technology,United States of America
+66,Technology,United States of America
+91,Finance & Investments,United States of America
+49,Technology,United States of America
+48,Technology,United States of America
+77,Technology,United States of America
+66,Technology,United States of America
+80,Media & Entertainment,United States of America
+37,Technology,United States of America
+73,Fashion & Retail,United States of America
+72,Fashion & Retail,United States of America
+77,Fashion & Retail,United States of America
+86,Diversified,United States of America
+59,Diversified,United States of America
+57,Technology,United States of America
+84,Fashion & Retail,United States of America
+51,Technology,United States of America
+75,Finance & Investments,United States of America
+82,Food & Beverage,United States of America
+86,Food & Beverage,United States of America
+73,Fashion & Retail,United States of America
+71,Fashion & Retail,United States of America
+83,Finance & Investments,United States of America
+76,Gambling & Casinos,United States of America
+53,Finance & Investments,United States of America
+89,Fashion & Retail,United States of America
+66,Technology,United States of America
+72,Finance & Investments,United States of America
+60,Finance & Investments,United States of America
+83,Healthcare,United States of America
+60,Finance & Investments,United States of America
+91,Media & Entertainment,United States of America
+59,Technology,United States of America
+77,Finance & Investments,United States of America
+65,Finance & Investments,United States of America
+76,Energy,United States of America
+64,Finance & Investments,United States of America
+82,Fashion & Retail,United States of America
+86,Finance & Investments,United States of America
+35,Fashion & Retail,United States of America
+58,Technology,United States of America
+89,Real Estate,United States of America
+44,Technology,United States of America
+92,Media & Entertainment,United States of America
+81,Technology,United States of America
+70,Technology,United States of America
+84,Finance & Investments,United States of America
+63,Finance & Investments,United States of America
+40,Technology,United States of America
+73,Finance & Investments,United States of America
+37,Technology,United States of America
+62,Technology,United States of America
+54,Technology,United States of America
+59,Healthcare,United States of America
+82,Finance & Investments,United States of America
+71,Technology,United States of America
+75,Construction & Engineering,United States of America
+74,Sports,United States of America
+79,Sports,United States of America
+46,Finance & Investments,United States of America
+70,Finance & Investments,United States of America
+40,Technology,United States of America
+79,Media & Entertainment,United States of America
+69,Finance & Investments,United States of America
+79,Energy,United States of America
+66,Technology,United States of America
+46,Technology,United States of America
+31,Technology,United States of America
+33,Technology,United States of America
+93,Technology,United States of America
+38,Technology,United States of America
+73,Fashion & Retail,United States of America
+88,Food & Beverage,United States of America
+83,Manufacturing,United States of America
+69,Media & Entertainment,United States of America
+92,Fashion & Retail,United States of America
+64,Automotive,United States of America
+91,Finance & Investments,United States of America
+60,Service,United States of America
+71,Manufacturing,United States of America
+80,Sports,United States of America
+81,Real Estate,United States of America
+57,Technology,United States of America
+70,Fashion & Retail,United States of America
+78,Finance & Investments,United States of America
+49,Fashion & Retail,United States of America
+84,Finance & Investments,United States of America
+57,Food & Beverage,United States of America
+61,Food & Beverage,United States of America
+63,Food & Beverage,United States of America
+65,Food & Beverage,United States of America
+73,Fashion & Retail,United States of America
+74,Media & Entertainment,United States of America
+78,Finance & Investments,United States of America
+71,Automotive,United States of America
+63,Energy,United States of America
+77,Energy,United States of America
+71,Finance & Investments,United States of America
+81,Media & Entertainment,United States of America
+51,Media & Entertainment,United States of America
+80,Fashion & Retail,United States of America
+67,Finance & Investments,United States of America
+60,Finance & Investments,United States of America
+67,Technology,United States of America
+69,Healthcare,United States of America
+67,Healthcare,United States of America
+79,Sports,United States of America
+68,Food & Beverage,United States of America
+66,Food & Beverage,United States of America
+78,Technology,United States of America
+72,Service,United States of America
+86,Diversified,United States of America
+67,Technology,United States of America
+82,Fashion & Retail,United States of America
+64,Finance & Investments,United States of America
+80,Food & Beverage,United States of America
+87,Logistics,United States of America
+68,Finance & Investments,United States of America
+52,Finance & Investments,United States of America
+67,Healthcare,United States of America
+79,Technology,United States of America
+59,Finance & Investments,United States of America
+39,Finance & Investments,United States of America
+58,Energy,United States of America
+39,Energy,United States of America
+52,Energy,United States of America
+60,Finance & Investments,United States of America
+60,Energy,United States of America
+78,Energy,United States of America
+54,Finance & Investments,United States of America
+62,Technology,United States of America
+52,Finance & Investments,United States of America
+60,Finance & Investments,United States of America
+76,Technology,United States of America
+51,Finance & Investments,United States of America
+57,Finance & Investments,United States of America
+33,Technology,United States of America
+57,Technology,United States of America
+77,Finance & Investments,United States of America
+84,Real Estate,United States of America
+72,Telecom,United States of America
+45,Technology,United States of America
+77,Media & Entertainment,United States of America
+31,Technology,United States of America
+57,Finance & Investments,United States of America
+74,Fashion & Retail,United States of America
+61,Sports,United States of America
+67,Technology,United States of America
+57,Finance & Investments,United States of America
+86,Finance & Investments,United States of America
+71,Energy,United States of America
+64,Finance & Investments,United States of America
+65,Manufacturing,United States of America
+73,Technology,United States of America
+82,Real Estate,United States of America
+70,Technology,United States of America
+84,Fashion & Retail,United States of America
+80,Real Estate,United States of America
+65,Finance & Investments,United States of America
+60,Finance & Investments,United States of America
+59,Technology,United States of America
+64,Food & Beverage,United States of America
+83,Real Estate,United States of America
+70,Technology,United States of America
+80,Technology,United States of America
+84,Real Estate,United States of America
+78,Finance & Investments,United States of America
+49,Fashion & Retail,United States of America
+60,Food & Beverage,United States of America
+62,Fashion & Retail,United States of America
+80,Manufacturing,United States of America
+87,Healthcare,United States of America
+78,Manufacturing,United States of America
+95,Media & Entertainment,United States of America
+80,Service,United States of America
+71,Finance & Investments,United States of America
+77,Service,United States of America
+64,Media & Entertainment,United States of America
+77,Media & Entertainment,United States of America
+79,Media & Entertainment,United States of America
+52,Technology,United States of America
+74,Energy,United States of America
+55,Finance & Investments,United States of America
+67,Real Estate,United States of America
+89,Finance & Investments,United States of America
+58,Finance & Investments,United States of America
+79,Media & Entertainment,United States of America
+71,Food & Beverage,United States of America
+72,Food & Beverage,United States of America
+47,Technology,United States of America
+50,Technology,United States of America
+78,Fashion & Retail,United States of America
+68,Food & Beverage,United States of America
+71,Finance & Investments,United States of America
+44,Finance & Investments,United States of America
+83,Energy,United States of America
+54,Finance & Investments,United States of America
+87,Healthcare,United States of America
+50,Finance & Investments,United States of America
+58,Finance & Investments,United States of America
+55,Finance & Investments,United States of America
+42,Finance & Investments,United States of America
+81,Food & Beverage,United States of America
+89,Finance & Investments,United States of America
+59,Finance & Investments,United States of America
+57,Technology,United States of America
+80,Technology,United States of America
+69,Technology,United States of America
+63,Media & Entertainment,United States of America
+90,Logistics,United States of America
+79,Real Estate,United States of America
+71,Automotive,United States of America
+77,Logistics,United States of America
+49,Healthcare,United States of America
+67,Food & Beverage,United States of America
+69,Food & Beverage,United States of America
+66,Food & Beverage,United States of America
+80,Technology,United States of America
+73,Technology,United States of America
+60,Finance & Investments,United States of America
+64,Finance & Investments,United States of America
+78,Finance & Investments,United States of America
+60,Food & Beverage,United States of America
+48,Finance & Investments,United States of America
+79,Finance & Investments,United States of America
+96,Real Estate,United States of America
+70,Energy,United States of America
+80,Finance & Investments,United States of America
+68,Service,United States of America
+62,Finance & Investments,United States of America
+80,Media & Entertainment,United States of America
+89,Food & Beverage,United States of America
+88,Technology,United States of America
+63,Real Estate,United States of America
+62,Service,United States of America
+57,Automotive,United States of America
+93,Energy,United States of America
+81,Finance & Investments,United States of America
+61,Finance & Investments,United States of America
+81,Fashion & Retail,United States of America
+77,Finance & Investments,United States of America
+61,Finance & Investments,United States of America
+61,Finance & Investments,United States of America
+77,Real Estate,United States of America
+75,Finance & Investments,United States of America
+86,Media & Entertainment,United States of America
+60,Finance & Investments,United States of America
+85,Sports,United States of America
+39,Food & Beverage,United States of America
+63,Healthcare,United States of America
+66,Finance & Investments,United States of America
+74,Technology,United States of America
+63,Technology,United States of America
+52,Technology,United States of America
+67,Media & Entertainment,United States of America
+72,Automotive,United States of America
+76,Service,United States of America
+51,Food & Beverage,United States of America
+68,Service,United States of America
+42,Technology,United States of America
+53,Finance & Investments,United States of America
+61,Finance & Investments,United States of America
+66,Finance & Investments,United States of America
+59,Service,United States of America
+72,Finance & Investments,United States of America
+68,Food & Beverage,United States of America
+57,Sports,United States of America
+66,Energy,United States of America
+82,Finance & Investments,United States of America
+40,Finance & Investments,United States of America
+40,Finance & Investments,United States of America
+71,Sports,United States of America
+66,Finance & Investments,United States of America
+59,Gambling & Casinos,United States of America
+87,Real Estate,United States of America
+70,Food & Beverage,United States of America
+75,Sports,United States of America
+72,Finance & Investments,United States of America
+68,Fashion & Retail,United States of America
+58,Finance & Investments,United States of America
+75,Finance & Investments,United States of America
+58,Real Estate,United States of America
+54,Gambling & Casinos,United States of America
+75,Finance & Investments,United States of America
+73,Energy,United States of America
+61,Media & Entertainment,United States of America
+85,Media & Entertainment,United States of America
+65,Logistics,United States of America
+61,Fashion & Retail,United States of America
+76,Real Estate,United States of America
+61,Service,United States of America
+87,Finance & Investments,United States of America
+89,Finance & Investments,United States of America
+75,Media & Entertainment,United States of America
+70,Real Estate,United States of America
+55,Technology,United States of America
+72,Sports,United States of America
+79,Finance & Investments,United States of America
+84,Food & Beverage,United States of America
+75,Sports,United States of America
+57,Finance & Investments,United States of America
+76,Finance & Investments,United States of America
+81,Real Estate,United States of America
+62,Sports,United States of America
+51,Fashion & Retail,United States of America
+70,Sports,United States of America
+72,Food & Beverage,United States of America
+35,Technology,United States of America
+83,Energy,United States of America
+69,Technology,United States of America
+87,Real Estate,United States of America
+58,Food & Beverage,United States of America
+79,Energy,United States of America
+86,Food & Beverage,United States of America
+60,Finance & Investments,United States of America
+45,Finance & Investments,United States of America
+92,Manufacturing,United States of America
+48,Finance & Investments,United States of America
+95,Finance & Investments,United States of America
+45,Media & Entertainment,United States of America
+59,Technology,United States of America
+65,Finance & Investments,United States of America
+67,Food & Beverage,United States of America
+71,Technology,United States of America
+71,Food & Beverage,United States of America
+63,Food & Beverage,United States of America
+86,Finance & Investments,United States of America
+58,Manufacturing,United States of America
+65,Technology,United States of America
+53,Technology,United States of America
+48,Finance & Investments,United States of America
+51,Food & Beverage,United States of America
+63,Manufacturing,United States of America
+66,Manufacturing,United States of America
+65,Manufacturing,United States of America
+62,Manufacturing,United States of America
+74,Real Estate,United States of America
+74,Technology,United States of America
+80,Gambling & Casinos,United States of America
+78,Technology,United States of America
+39,Automotive,United States of America
+60,Food & Beverage,United States of America
+86,Finance & Investments,United States of America
+55,Telecom,United States of America
+78,Automotive,United States of America
+63,Real Estate,United States of America
+47,Technology,United States of America
+62,Finance & Investments,United States of America
+45,Finance & Investments,United States of America
+45,Finance & Investments,United States of America
+57,Technology,United States of America
+77,Media & Entertainment,United States of America
+47,Finance & Investments,United States of America
+65,Healthcare,United States of America
+62,Real Estate,United States of America
+64,Gambling & Casinos,United States of America
+55,Finance & Investments,United States of America
+87,Manufacturing,United States of America
+59,Fashion & Retail,United States of America
+89,Food & Beverage,United States of America
+53,Technology,United States of America
+75,Real Estate,United States of America
+68,Food & Beverage,United States of America
+57,Finance & Investments,United States of America
+74,Media & Entertainment,United States of America
+84,Real Estate,United States of America
+70,Construction & Engineering,United States of America
+60,Real Estate,United States of America
+50,Technology,United States of America
+66,Finance & Investments,United States of America
+66,Real Estate,United States of America
+84,Finance & Investments,United States of America
+82,Service,United States of America
+70,Finance & Investments,United States of America
+85,Fashion & Retail,United States of America
+85,Automotive,United States of America
+45,Technology,United States of America
+65,Finance & Investments,United States of America
+66,Technology,United States of America
+73,Fashion & Retail,United States of America
+50,Technology,United States of America
+73,Fashion & Retail,United States of America
+76,Fashion & Retail,United States of America
+77,Fashion & Retail,United States of America
+53,Finance & Investments,United States of America
+55,Finance & Investments,United States of America
+43,Technology,United States of America
+77,Fashion & Retail,United States of America
+76,Food & Beverage,United States of America
+79,Real Estate,United States of America
+67,Real Estate,United States of America
+73,Finance & Investments,United States of America
+72,Fashion & Retail,United States of America
+45,Technology,United States of America
+76,Real Estate,United States of America
+51,Technology,United States of America
+47,Technology,United States of America
+42,Technology,United States of America
+83,Real Estate,United States of America
+78,Finance & Investments,United States of America
+67,Technology,United States of America
+56,Technology,United States of America
+66,Technology,United States of America
+62,Service,United States of America
+52,Real Estate,United States of America
+80,Manufacturing,United States of America
+56,Technology,United States of America
+84,Energy,United States of America
+75,Real Estate,United States of America
+65,Real Estate,United States of America
+75,Food & Beverage,United States of America
+68,Finance & Investments,United States of America
+53,Technology,United States of America
+89,Automotive,United States of America
+84,Finance & Investments,United States of America
+62,Finance & Investments,United States of America
+60,Sports,United States of America
+53,Sports,United States of America
+90,Fashion & Retail,United States of America
+69,Finance & Investments,United States of America
+63,Manufacturing,United States of America
+79,Finance & Investments,United States of America
+62,Finance & Investments,United States of America
+45,Food & Beverage,United States of America
+65,Technology,United States of America
+68,Media & Entertainment,United States of America
+59,Media & Entertainment,United States of America
+73,Fashion & Retail,United States of America
+78,Finance & Investments,United States of America
+77,Finance & Investments,United States of America
+72,Real Estate,United States of America
+47,Finance & Investments,United States of America
+98,Finance & Investments,United States of America
+64,Manufacturing,United States of America
+76,Healthcare,United States of America
+51,Technology,United States of America
+80,Service,United States of America
+85,Real Estate,United States of America
+76,Energy,United States of America
+59,Food & Beverage,United States of America
+56,Technology,United States of America
+60,Fashion & Retail,United States of America
+84,Diversified,United States of America
+32,Technology,United States of America
+68,Food & Beverage,United States of America
+72,Food & Beverage,United States of America
+69,Food & Beverage,United States of America
+62,Food & Beverage,United States of America
+49,Healthcare,United States of America
+49,Food & Beverage,United States of America
+34,Technology,United States of America
+56,Technology,United States of America
+90,Gambling & Casinos,United States of America
+72,Fashion & Retail,United States of America
+71,Food & Beverage,United States of America
+80,Energy,United States of America
+62,Finance & Investments,United States of America
+73,Media & Entertainment,United States of America
+60,Finance & Investments,United States of America
+63,Fashion & Retail,United States of America
+51,Healthcare,United States of America
+62,Manufacturing,United States of America
+81,Food & Beverage,United States of America
+98,Food & Beverage,United States of America
+51,Media & Entertainment,United States of America
+83,Media & Entertainment,United States of America
+83,Real Estate,United States of America
+30,Technology,United States of America
+49,Finance & Investments,United States of America
+31,Technology,United States of America
+85,Healthcare,United States of America
+63,Finance & Investments,United States of America
+61,Real Estate,United States of America
+66,Finance & Investments,United States of America
+53,Food & Beverage,United States of America
+75,Finance & Investments,United States of America
+72,Telecom,United States of America
+76,Sports,United States of America
+65,Finance & Investments,United States of America
+47,Finance & Investments,United States of America
+45,Finance & Investments,United States of America
+36,Metals & Mining,United States of America
+81,Manufacturing,United States of America
+65,Energy,United States of America
+60,Technology,United States of America
+36,Finance & Investments,United States of America
+33,Finance & Investments,United States of America
+64,Fashion & Retail,United States of America
+88,Energy,United States of America
+77,Healthcare,United States of America
+54,Technology,United States of America
+79,Finance & Investments,United States of America
+60,Energy,United States of America
+95,Healthcare,United States of America
+74,Healthcare,United States of America
+61,Technology,United States of America
+51,Healthcare,United States of America
+97,Food & Beverage,United States of America
+27,Technology,United States of America
+80,Automotive,United States of America
+61,Technology,United States of America
+64,Finance & Investments,United States of America
+61,Diversified,United States of America
+65,Diversified,United States of America
+77,Healthcare,United States of America
+42,Technology,United States of America
+36,Finance & Investments,United States of America
+76,Finance & Investments,United States of America
+78,Finance & Investments,United States of America
+56,Technology,United States of America
+74,Fashion & Retail,United States of America
+71,Finance & Investments,United States of America
+68,Service,United States of America
+75,Food & Beverage,United States of America
+87,Diversified,United States of America
+61,Media & Entertainment,United States of America
+44,Fashion & Retail,United States of America
+50,Technology,United States of America
+62,Finance & Investments,United States of America
+80,Finance & Investments,United States of America
+74,Automotive,United States of America
+60,Real Estate,United States of America
+52,Finance & Investments,United States of America
+80,Construction & Engineering,United States of America
+48,Technology,United States of America
+78,Sports,United States of America
+57,Finance & Investments,United States of America
+64,Finance & Investments,United States of America
+64,Energy,United States of America
+77,Sports,United States of America
+43,Technology,United States of America
+79,Food & Beverage,United States of America
+57,Finance & Investments,United States of America
+77,Technology,United States of America
+88,Media & Entertainment,United States of America
+100,Finance & Investments,United States of America
+41,Fashion & Retail,United States of America
+59,Finance & Investments,United States of America
+61,Finance & Investments,United States of America
+80,Real Estate,United States of America
+73,Healthcare,United States of America
+55,Healthcare,United States of America
+72,Technology,United States of America
+86,Sports,United States of America
+63,Technology,United States of America
+64,Finance & Investments,United States of America
+79,Food & Beverage,United States of America
+79,Gambling & Casinos,United States of America
+59,Healthcare,United States of America
+50,Finance & Investments,United States of America
+42,Technology,United States of America
+40,Technology,United States of America
+76,Finance & Investments,United States of America
+52,Healthcare,United States of America
+77,Automotive,United States of America
+59,Sports,United States of America
+77,Healthcare,United States of America
+58,Food & Beverage,United States of America
+94,Diversified,United States of America
+79,Finance & Investments,United States of America
+72,Real Estate,United States of America
+34,Fashion & Retail,United States of America
+67,Fashion & Retail,United States of America
+63,Finance & Investments,United States of America
+75,Technology,United States of America
+75,Real Estate,United States of America
+59,Manufacturing,United States of America
+70,Manufacturing,United States of America
+82,Finance & Investments,United States of America
+55,Finance & Investments,United States of America
+65,Finance & Investments,United States of America
+63,Construction & Engineering,United States of America
+66,Finance & Investments,United States of America
+77,Finance & Investments,United States of America
+72,Finance & Investments,United States of America
+66,Technology,United States of America
+39,Technology,United States of America
+76,Finance & Investments,United States of America
+68,Healthcare,United States of America
+72,Food & Beverage,United States of America
+81,Energy,United States of America
+73,Healthcare,United States of America
+66,Sports,United States of America
+76,Manufacturing,United States of America
+62,Food & Beverage,United States of America
+84,Finance & Investments,United States of America
+72,Food & Beverage,United States of America
+70,Food & Beverage,United States of America
+67,Food & Beverage,United States of America
+62,Media & Entertainment,United States of America
+27,Automotive,United States of America
+75,Energy,United States of America
+52,Technology,United States of America
+43,Food & Beverage,United States of America
+66,Real Estate,United States of America
+57,Technology,United States of America
+48,Technology,United States of America
+43,Technology,United States of America
+62,Service,United States of America
+57,Technology,United States of America
+73,Finance & Investments,United States of America
+66,Technology,United States of America
+71,Sports,United States of America
+36,Technology,United States of America
+63,Technology,United States of America
+60,Technology,United States of America
+49,Technology,United States of America
+69,Technology,United States of America
+26,Finance & Investments,United States of America
+48,Finance & Investments,United States of America
+96,Manufacturing,United States of America
+25,Finance & Investments,United States of America
+93,Media & Entertainment,United States of America
+53,Finance & Investments,United States of America
+71,Energy,United States of America
+39,Technology,United States of America
+44,Finance & Investments,United States of America
+54,Finance & Investments,United States of America
+94,Fashion & Retail,United States of America
+64,Finance & Investments,United States of America
+66,Sports,United States of America
+84,Healthcare,United States of America
+47,Finance & Investments,United States of America
+47,Technology,United States of America
+34,Finance & Investments,United States of America
+49,Fashion & Retail,United States of America
+73,Energy,United States of America
+54,Food & Beverage,United States of America
+93,Finance & Investments,United States of America
+64,Finance & Investments,United States of America
+38,Technology,United States of America
+68,Diversified,United States of America
+94,Finance & Investments,United States of America
+74,Telecom,United States of America
+40,Technology,United States of America
+49,Technology,United States of America
+48,Technology,United States of America
+68,Sports,United States of America
+54,Technology,United States of America
+55,Technology,United States of America
+60,Technology,United States of America
+81,Service,United States of America
+77,Finance & Investments,United States of America
+56,Service,United States of America
+80,Fashion & Retail,United States of America
+32,Finance & Investments,United States of America
+52,Media & Entertainment,United States of America
+63,Finance & Investments,United States of America
+59,Fashion & Retail,United States of America
+72,Diversified,United States of America
+67,Manufacturing,United States of America
+68,Media & Entertainment,United States of America
+78,Logistics,United States of America
+43,Real Estate,United States of America
+56,Technology,United States of America
+49,Finance & Investments,United States of America
+84,Real Estate,United States of America
+39,Media & Entertainment,United States of America
+47,Technology,United States of America
+62,Healthcare,United States of America
+39,Technology,United States of America
+86,Real Estate,United States of America
+41,Media & Entertainment,United States of America
+69,Diversified,United States of America
+71,Service,United States of America
+68,Technology,United States of America
+67,Technology,United States of America
+66,Finance & Investments,United States of America
+63,Technology,United States of America
+89,Healthcare,United States of America
+40,Fashion & Retail,United States of America
+65,Technology,United States of America
+41,Media & Entertainment,United States of America
+60,Technology,United States of America
+66,Healthcare,United States of America
+79,Finance & Investments,United States of America
+65,Energy,United States of America
+70,Energy,United States of America
+37,Technology,United States of America
+41,Real Estate,United States of America
+85,Finance & Investments,United States of America
+83,Fashion & Retail,United States of America
+63,Finance & Investments,United States of America
+68,Fashion & Retail,United States of America
+65,Fashion & Retail,United States of America
+64,Finance & Investments,United States of America
+56,Finance & Investments,United States of America
+67,Real Estate,United States of America
+62,Finance & Investments,United States of America
+74,Fashion & Retail,United States of America
+53,Media & Entertainment,United States of America
+50,Technology,United States of America
+86,Manufacturing,United States of America
+69,Finance & Investments,United States of America
+40,Technology,United States of America
+65,Food & Beverage,United States of America
+69,Healthcare,United States of America
+81,Finance & Investments,United States of America
+29,Technology,United States of America
+71,Diversified,United States of America
+73,Diversified,United States of America
+86,Diversified,United States of America
+52,Automotive,United States of America
+51,Fashion & Retail,United States of America
+67,Finance & Investments,United States of America
+71,Finance & Investments,United States of America
+29,Technology,United States of America
+78,Fashion & Retail,United States of America
+81,Manufacturing,United States of America
+59,Finance & Investments,United States of America
+40,Media & Entertainment,United States of America
+54,Technology,United States of America
+61,Finance & Investments,United States of America
+86,Finance & Investments,United States of America
+60,Finance & Investments,United States of America
+59,Construction & Engineering,United States of America
+65,Technology,United States of America
+62,Technology,United States of America
+66,Energy,United States of America
+72,Technology,United States of America
+81,Real Estate,United States of America
+82,Finance & Investments,United States of America
+66,Technology,United States of America
+82,Food & Beverage,United States of America
+69,Finance & Investments,United States of America
+55,Manufacturing,United States of America
+78,Sports,United States of America
+44,Technology,United States of America
+88,Fashion & Retail,United States of America
+49,Finance & Investments,United States of America
+52,Media & Entertainment,United States of America
+47,Finance & Investments,United States of America
+58,Media & Entertainment,United States of America
+55,Real Estate,United States of America
+67,Technology,United States of America
+57,Energy,United States of America
+51,Technology,United States of America
+67,Finance & Investments,United States of America
+71,Real Estate,United States of America
+78,Finance & Investments,United States of America
+79,Food & Beverage,United States of America
+77,Energy,Uruguay
+44,Finance & Investments,Uruguay
+58,Finance & Investments,Uruguay
+53,Diversified,Vietnam
+61,Manufacturing,Vietnam
+51,Diversified,Vietnam
+64,Real Estate,Vietnam
+51,Finance & Investments,Vietnam
+58,Food & Beverage,Vietnam
+62,Automotive,Vietnam
