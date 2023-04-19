@@ -1,0 +1,229 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Chart1-forbes</title>
+    <script src="JS/d3.min.js" charset="utf-8"></script>
+  </head>
+
+  <style>
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .left,
+    .right {
+      position: absolute;
+      top: 40%;
+      font-size: 32px;
+      color: black;
+    }
+
+    .left {
+      left: 2%;
+    }
+
+    .right {
+      right: 2%;
+    }
+
+    .graph {
+      position: absolute;
+      top: 10%;
+      left: 10%;
+    }
+
+    img {
+      position: absolute;
+      width: 300px;
+      height: 200px;
+      right: 3%;
+    }
+    .my {
+      font-size: 18px;
+      font-weight: 700;
+    }
+    .category {
+      position: absolute;
+      left:23%;
+      top: 30%;
+      font-size: 18px;
+      font-weight: 700;
+    }
+    .people {
+      position: absolute;
+      right: 30%;
+      bottom: 30%;
+      font-size: 18px;
+      font-weight: 700;
+    }
+    .title {
+      position: absolute;
+      left: 13%;
+      bottom: 20%;
+      font-size: 28px;
+      font-weight: 700;
+    }
+    .zhusi {
+      position: absolute;
+      bottom: 15%;
+      left: 13%;
+    }
+    .zhusi1 {
+      position: absolute;
+      bottom: 10%;
+      left: 13%;
+      font-size:15px;
+    }
+    body {
+      font-family: "Times New Roman", Times, serif;
+    }
+
+    p {
+      max-width: 500px;
+      text-align: justify;
+    }
+  </style>
+
+  <body>
+    <a class="left" href="pie.html"> < </a>
+    <a class="right" href="chart2.html"> > </a>
+
+    <style>
+      .category {
+        position: relative;
+        margin-top: auto;
+      }
+      </style>
+      
+      <div style="height: 200px;">
+        <p class="category">Category</p>
+      </div>
+
+      <p class="people" style="display: inline-block; margin-left: 10px;">Number</p>
+
+    <div class="title">
+      Which industry has the largest number of young* billionaires？
+    </div>
+    <div class="zhusi">
+      Young: People under the age of 35 are defined as young people in the
+      central document of the People's Republic of China
+    </div>
+    <div class="zhusi1">
+      As can be seen from this graph, the technology, finance and fashion industries have the highest number of young billionaires，which inspires contemporary young people who wants to start their own busniess can try and study in these industries.
+    </div>
+    
+    <div class="graph"></div>
+    <div class="graph">
+      <svg width="800" height="500" id="mainsvg" class="svgs"></svg>
+    </div>
+    <script>
+      var color = d3.quantize(d3.interpolateHcl("#d66000", "#a9a9b4"), 14);
+
+      // var color = [
+      //   "#1f77b4",
+      //   "#ff7f0e",
+      //   "#2ca02c",
+      //   "#d62728",
+      //   "#9467bd",
+      //   "#8c564b",
+      //   "#e377c2",
+      //   "#7f7f7f",
+      //   "#bcbd22",
+      //   "#17becf",
+      // ];
+      // The following code is the typical routine of my d3.js code.
+      const svg = d3.select("svg");
+      const width = svg.attr("width");
+      const height = svg.attr("height");
+      const margin = { top: 60, right: 30, bottom: 60, left: 250 };
+      const innerWidth = width - margin.left - margin.right;
+      const innerHeight = height - margin.top - margin.bottom;
+      const mainGroup = svg
+        .append("g")
+        .attr("transform", `translate(${margin.left}, ${margin.top})`);
+      const xValue = (d) => d.globalsale;
+      const yValue = (d) => d.platform;
+      const xScale = d3.scaleLinear();
+      const yScale = d3.scaleBand();
+
+      /*
+          Loading data and preprocessing data.
+          Note that you can also preprocessing data in your own way using your prefered language, e.g., Python.
+        */
+      d3.csv("Data/platform_globalsale.csv").then((data) => {
+        data.sort((a, b) => {
+          return +a.globalsale > +b.globalsale ? -1 : 1;
+        });
+
+        // calculationg scales:
+        yScale.domain(data.map(yValue)).range([0, innerHeight]).padding(0.1);
+        console.log(data.map(yValue));
+        xScale.domain([0, d3.max(data, xValue) * 2]).range([0, innerWidth]);
+        // data-join for rectangles:
+
+        // adding axes:
+        const xAxisMethod = d3.axisBottom(xScale);
+        const yAxisMethod = d3.axisLeft(yScale);
+        const xAxisGroup = mainGroup
+          .append("g")
+          .attr("class", "myx")
+          .call(xAxisMethod);
+        const yAxisGroup = mainGroup
+          .append("g")
+          .attr("class", "myy")
+          .call(yAxisMethod);
+        xAxisGroup.attr("transform", `translate(${0}, ${innerHeight})`);
+
+        mainGroup
+          .selectAll(".myrect")
+          .data(data)
+          .join("rect")
+          .attr("class", "myrect")
+          .attr("height", yScale.bandwidth())
+          .attr("width", (d) => xScale(xValue(d)))
+          .attr("x", 0)
+          .attr("y", (d) => yScale(yValue(d)))
+          .attr("fill", function (d, i) {
+            return color[i];
+          });
+
+        mainGroup
+          .selectAll(".mytext")
+          .data(data)
+          .join("text")
+          .attr("class", "mytext")
+
+          .attr("x", (d) => xScale(xValue(d)) + 5)
+          .attr("y", (d) => yScale(yValue(d)) + yScale.bandwidth() / 2 + 5)
+          .text((d) => d.globalsale);
+
+        svg.style("background", "#F0EB8D");
+
+        d3.selectAll(".myy .tick>line")
+          .attr("x2", innerWidth)
+          .attr("stroke", "#F7F1E5")
+          .raise();
+        d3.selectAll(".myx .tick>line")
+          .attr("y2", -innerHeight)
+          .attr("stroke", "#F7F1E5");
+
+        svg
+          .append("rect")
+          .attr("x", margin.left)
+          .attr("y", margin.top)
+          .attr("width", innerWidth)
+          .attr("height", innerHeight)
+          .attr("fill", "#F0EB8D")
+          .lower();
+      });
+    </script>
+  </body>
+</html>
